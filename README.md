@@ -5,12 +5,14 @@ Customer Loyalty Management System
 The program was designed to offer a customer loyalty programme. The program records the customers’ details and their reward in points and allow customers to redeem reward through a list of gifts. An additional reward will be given to the topmost customers.  The program has two types of users (Admin and Customer). Following is the system structure alongside with the functions. 
 
 Home Page: 
+
             1. Add new customer        
             2. Login as customer       
             3. Login as admin          
             4. Exit   
             
 Customer's menu: 
+
             1. Edit my details         
             2. View my details         
             3. Delete my account       
@@ -19,6 +21,7 @@ Customer's menu:
             6. Sign out      
             
  Admin's menu: 
+ 
             1. Create new account      
             2. Edit account           
             3. Delete account         
