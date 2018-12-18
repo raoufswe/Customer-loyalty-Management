@@ -32,5 +32,5 @@ Customer's menu:
             8. View top 5 customers    
             9. Sign out                
                    
-The program was developed using C language with the help of double linked list. The data is stored in files and will be load when the program starts.
+The program was developed using C language with the help of double linked list. The data is stored in files and it will be loaded when the program starts.
 
